@@ -85,7 +85,7 @@
 
 ### 5) Exploring & Adaptation:
 
-- In the fast-pacing IT industry, you should be a person that keeps exploring & learning different technologies, platforms & frameworks to improve your side project.
+- In the fast-pacing IT industry, you should be a person that keeps exploring & learning different technologies, platforms & frameworks, one way to do this is to keep improving your existing side projects as you learn and grow.
 
 - Explore &use platforms like Vercel, GCP (Google Cloud Platform) for enabling Google sign-in into your projects for free.
 
