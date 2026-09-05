@@ -105,7 +105,7 @@
     - You should definitely be excellent at code reviewing (writing code is no longer a problem in the world of ai, but reviewing it, fixing it, and making it more feasible & secure is one of the demanding expertise now)
     - You should definitely be good at ADLC (Agentic Development Lifecycle) and HITL (Human In The Loop) under ADLC.
     - Focus on Foundations, not technologies (technologies keep changing but your problem-solving skills would always be handy and useful, no matter what the task/project is), you can try LeetCode for improving this and your problem-solving skills would also depend on the number of projects you have worked on & the complexity of those projects.
-    - You should be knowing in-depth all technologies/tools that you mention in your resume, that takes us to the third point:
+    - You should be knowing in-depth all technologies/tools that you mention in your resume, that takes us to the next point:
     - Be Honest
     - Take ownership & responsibility of your weaknesses or any mistakes from your side or from your team's side
     - Stick to good work ethic during problems/mistakes or any mishaps that you have created, fix them by taking ownership, this is what makes you a dependable and responsible asset for your clients.
