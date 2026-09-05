@@ -76,7 +76,7 @@
 
 - Whenever you build something that is impressive, push it to GitHub, and look for ways to deploy it (making it accessible on the internet for everyone, like for instance, you could deploy & host a web app on GitHub pages or on Vercel for free)
 
-- Once you have deployed an impressive project of yours or once you have made a recording/demo of the project (if it is not deployable on the internet) then you should share the link to your project or that recorded video in a post on LinkedIn, to fetch audience and share with others (potential recruiters) of what you are capable of, and this brings us to networking:
+- Once you have deployed an impressive project of yours or once you have made a recording/demo of the project (if it is not deployable on the internet) then you should share the link to your project or that recorded video in a post on LinkedIn, to fetch audience and share with others (potential recruiters) of what you are capable of
 
 - Projects also help you discover your field of interest by the way, if you haven't discovered it yet.
 
