@@ -116,15 +116,15 @@
 
 - Summary:
 
-  -Learn
+  - Learn
   
-  -Solve
+  - Solve
   
-  -Communicate
+  - Communicate
   
-  -Own
+  - Own
   
-  -Adapt
+  - Adapt
 
 ## Networking
 
