@@ -8,9 +8,11 @@
   - [3) Online courses and Certifications](#3-online-courses-and-certifications)
   - [4) Projects](#4-projects)
   - [5) Exploring & Adaptation](#5-exploring--adaptation)
-  - [6) Skills that make you eligible for leading roles at Big Tech](#6-skills-that-make-you-eligible-for-leading-roles-at-big-tech-and-into-a-dependable-and-responsible-asset-for-your-clients)
+  - [6) Skills that make you eligible for leading roles at Big Tech](#6-skills-that-make-you-eligible-for-leading-roles-at-big-tech-and-into-a-dependable-and-responsible-asset-for-your-clients) 
 - [Networking](#networking)
 - [Getting a good GPA](#getting-a-good-gpa)
+- [Seniors Experiences](#seniors-experiences)
+     - [1) Should you join societies, focus on skills, get a better GPA or All of them ?](#should-you-join-societies-focus-on-skills-get-a-better-gpa-or-all-of-them) 
 - [Contribution](#contribution)
 
 
@@ -153,8 +155,48 @@
 - Ask recommended book of each course by the Lecturer, and then practice/read topics from that book that the teacher is covering in the classes (you should do this on daily/weekly basis)
 - If you have access to any past papers, practice from them to have an idea about the pattern of Qs that may come in exams.
 - If your course lecturer doesn't deliver the topics in a good way, then study those topics online (from YouTube etc. where you have access to complete course playlists from universities like Stanford & MIT)
-- Doing the above things will save you from the headache that occurs on the night before exam, if you have the whole syllabus to cover, and you feel like failing the course :)
+- Doing the above things will save you from the headache that occurs on the night before exam, if you have the whole syllabus to cover, and you feel like failing the course :)##
 
+# Seniors Experiences:
+
+## Should you join societies, focus on skills, get a better GPA or All of them 
+
+This is the self battle everyone will face once they get into any university. A lot of things will be happening suddenly and you will be confuse what to do. As per my 3 to 4 years of experience at FAST with highest GPA I got 3.75 and a Gold medal I will list down some facts. Based on this you can decide what to do:
+
+So Once you are in the university you will find almost 4 types of students:
+
+- **First one** the toppers with highest CGPAs but lack in practical industry skills and no network
+- **Second one** are we call them Cheetahzz - because they have really amazing industry skills but they lack badly in studies with small to non network.
+- **Third** are the one called "Mazdours" in universities. They are highly active in societies and clubs doing events etc. They have strong network with some basic skill sets.
+- **forth** are the one we call "All rounders" - they have Excellent CGPA, outstanding industry skills and project, over that very strong network.
+
+So you will find these types of character in your university life and you will become one of them soon or later. So what you can do is sit there and wait for time to decide or take step and test yourself. 
+
+### How will you test? 
+
+Well if I were again in 1st semester then I would test in all domain in my first 2 semesters. For that you have to put everything. 
+
+Then you will find out from the 4 of these characters which one is you. 
+
+Once you find out stick to it and become master of it. 
+
+### Fact you have to digest:
+
+Everyone want to be 4th character but it is not possible for everyone to be that person including me I am not that person. Because we are build different and this difference make us unique. 
+So Test yourself accept it and master it what you can. Most importantly seek help.
+
+### It Depends :
+
+But here is another thing it also depends on your future goals as well. Doing master in scholarship or self or going into industry making some good money. So it also depends on that as well. 
+We will do discuss on that next time. 
+But I want to share these points and I will do a linkedin Post as well for this so may be someone get some advantage in university life which I some how missed.
+   
+---
+
+**(Signing off : Ap ka Raqeeb )**
+
+You can approach me in my Linkedin or where you can find me if you need some advise regarding the uni life.
+<https://www.linkedin.com/in/raqeebraees/>
 ## Contribution
 
 Feel free to fork this repo, edit/add anything that might also be helpful for freshers, and then feel free to send a PR!
