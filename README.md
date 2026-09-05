@@ -1,5 +1,19 @@
 # Roadmap for skills, networking & good GPA
 
+## Table of Contents
+ 
+- [Skills](#skills)
+  - [1) Help others/juniors](#1-help-othersjuniors)
+  - [2) GitHub](#2-github)
+  - [3) Online courses and Certifications](#3-online-courses-and-certifications)
+  - [4) Projects](#4-projects)
+  - [5) Exploring & Adaptation](#5-exploring--adaptation)
+  - [6) Skills that make you eligible for leading roles at Big Tech](#6-skills-that-make-you-eligible-for-leading-roles-at-big-tech-and-into-a-dependable-and-responsible-asset-for-your-clients)
+- [Networking](#networking)
+- [Getting a good GPA](#getting-a-good-gpa)
+- [Contribution](#contribution)
+
+
 ## Skills
 
 ### 1) Help others/juniors
