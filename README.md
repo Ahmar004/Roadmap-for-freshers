@@ -159,8 +159,12 @@
 
 Feel free to fork this repo, edit/add anything that might also be helpful for freshers, and then feel free to send a PR!
 
-Feel free to contact the author of this Readme, if you need any help:
+Feel free to contact the author & contributors of this Readme, if you need any help:
+
+Author:
 https://www.linkedin.com/in/ahmarali2004/
+
+Contributors: currently zero :)
 
 Thank you for reading this!
 
