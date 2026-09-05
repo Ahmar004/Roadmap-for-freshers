@@ -9,7 +9,7 @@
 ### 2) GitHub
 
 - You should make a gitHub account
-  (Don't use your uni email for creating the account, it expires upon graduation)
+  (Don't use your uni email for creating the account, it could expire upon graduation)
 
   Create account at:
   https://www.github.com
@@ -82,6 +82,9 @@
 
 - A person without these skills may become restricted to a developer role, and could not be able to go much higher in seniority:
 
+    - You should be excellent at System Design & should have in-depth architectural knowledge of different tech stacks
+    - You should definitely be excellent at code reviewing (writing code is no longer a problem in the world of ai, but reviewing it, fixing it, and making it more feasible & secure is one of the demanding expertise now)
+    - You should definitely be good at ADLC (Agentic Development Lifecycle) and HITL (Human In The Loop) under ADLC.
     - Focus on Foundations, not technologies (technologies keep changing but your problem-solving skills would always be handy and useful, no matter what the task/project is), you can try LeetCode for improving this and your problem-solving skills would also depend on the number of projects you have worked on & the complexity of those projects.
     - You should be knowing in-depth all technologies/tools that you mention in your resume, that takes us to the third point:
     - Be Honest
@@ -122,6 +125,16 @@
 - Apply to internships & junior roles at good companies in your hometown, as well as apply for remote internships or remote junior roles at good companies in US, UK, Canada etc.
 
 - Sometimes, it is your network that makes such wonderful things possible for you, that you never expected in your life.
+
+## Getting a good GPA:
+
+- Don't procrastinate
+- Learn concepts and practice things along the way while you take classes, don't leave the whole syllabus to cover right before exams
+- Start Assignments early
+- Ask recommended book of each course by the Lecturer, and then practice/read topics from that book that the teacher is covering in the classes (you should do this on daily/weekly basis)
+- If you have access to any past papers, practice from them to have an idea about the pattern of Qs that may come in exams.
+- If your course lecturer doesn't deliver the topics in a good way, then study those topics online (from YouTube etc. where you have access to complete course playlists from universities like Stanford & MIT)
+- Doing the above things will save you from the headache that occurs on the night before exam, if you have the whole syllabus to cover, and you feel like failing the course :)
 
 ## Contribution
 
