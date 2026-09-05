@@ -32,10 +32,13 @@
 
 - You should make a repository for each project you do in uni or any of your side projects, to showcase your projects.
   For example visit mine:
-  https://github.com/Ahmar004
+  https://github.com/Ahmar004?tab=repositories
 
-- And you should also make a portfolio website on GitHub like for example:
-  https://ahmar004.github.io (play angry birds lol)
+- You should also make a portfolio website on GitHub (creating a repo with the name "your-username.github.io" hosts it at a shorter URL, ask Claude for details)
+  Example: https://ahmar004.github.io (play angry birds lol)
+
+- You should also create a Profile Readme on GitHub (creating a repo with the same name as your username and then having a README.md inside it does this, ask Claude for details)
+  Example: https://github.com/Ahmar004
 
 - learn Git Commands and how to be able to push your local projects from VSCode/visual studio to GitHub using terminal
 
