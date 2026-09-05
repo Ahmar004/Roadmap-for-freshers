@@ -78,6 +78,8 @@
 
 - Once you have deployed an impressive project of yours or once you have made a recording/demo of the project (if it is not deployable on the internet) then you should share the link to your project or that recorded video in a post on LinkedIn, to fetch audience and share with others (potential recruiters) of what you are capable of, and this brings us to networking:
 
+- Projects also help you discover your field of interest by the way, if you haven't discovered it yet.
+
 ### 5) Exploring & Adaptation:
 
 - In the fast-pacing IT industry, you should be a person that keeps exploring & learning different technologies, platforms & frameworks to improve your side project.
