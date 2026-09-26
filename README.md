@@ -152,7 +152,7 @@ https://chat.whatsapp.com/DStsHNqYnU5GVTXU3VpVeX
 
 - Sometimes, it is your network that makes such wonderful things possible for you, that you never expected in your life.
 
-## Getting a good GPA:
+## Getting a good GPA at FAST:
 
 - Don't procrastinate
 - Learn concepts and practice things along the way while you take classes, don't leave the whole syllabus to cover right before exams
