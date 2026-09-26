@@ -10,7 +10,7 @@
   - [5) Exploring & Adaptation](#5-exploring--adaptation)
   - [6) Skills that make you eligible for leading roles at Big Tech](#6-skills-that-make-you-eligible-for-leading-roles-at-big-tech-and-into-a-dependable-and-responsible-asset-for-your-clients) 
 - [Networking](#networking)
-- [Getting a good GPA](#getting-a-good-gpa-at-fast)
+- [Getting a good GPA at FAST](#getting-a-good-gpa-at-fast)
 - [Seniors' Experiences](#seniors-experiences)
      - [1) Should you join societies, focus on skills, get a better GPA or All of them ?](#should-you-join-societies-focus-on-skills-get-a-better-gpa-or-all-of-them) 
 - [Contribution](#contribution)
