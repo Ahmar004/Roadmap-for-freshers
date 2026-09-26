@@ -18,6 +18,11 @@
 
 ## Skills
 
+**Join our community OCR for skills-related stuff:**
+
+https://chat.whatsapp.com/DStsHNqYnU5GVTXU3VpVeX
+
+
 ### 1) Help others/juniors
 
 - You learn a lot while trying to help others, a lot of things you learnt in the past also get revised in your mind, when you are helping someone.
@@ -154,6 +159,12 @@
 - Start Assignments early
 - Ask recommended book of each course by the Lecturer, and then practice/read topics from that book that the teacher is covering in the classes (you should do this on daily/weekly basis)
 - If you have access to any past papers, practice from them to have an idea about the pattern of Qs that may come in exams.
+- For past papers of FAST, just check out group descriptions of each group under this community:
+
+  **OFR - Open-Source FAST Repository:**
+  
+  https://chat.whatsapp.com/Fyo2nkT3cbW9iqVJQt02tD
+
 - If your course lecturer doesn't deliver the topics in a good way, then study those topics online (from YouTube etc. where you have access to complete course playlists from universities like Stanford & MIT)
 - Doing the above things will save you from the headache that occurs on the night before exam, if you have the whole syllabus to cover, and you feel like failing the course :)
 
